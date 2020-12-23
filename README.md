@@ -1,10 +1,10 @@
-<h2> <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> Hey there! I'm Damilare</h2>
+<h2> <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hey there! I'm Damilare</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-</br></br>
+</br>
 
 👨 &nbsp; I'm just a code newbie navigating through the world of software development.\
 🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and postgres)\
@@ -13,7 +13,7 @@
 🎓 &nbsp; Studied Computer Science at National Open University, Nigeria.\
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</br><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3>
    🛠 &nbsp;Tech Stack
@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) </br></br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics 
 
 [![Fuglydami's github stats](https://github-readme-stats.vercel.app/api?username=fuglydami&show_icons=true&theme=onedark)](https://github.com/fuglydami/github-readme-stats)
 
