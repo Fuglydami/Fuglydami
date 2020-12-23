@@ -7,7 +7,7 @@
 </br>
 
 👨 &nbsp; I'm just a code newbie navigating through the world of software development.\
-🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and postgres)\
+🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and\ postgres)\
 👨🏻‍💻 &nbsp; Exploring new technologies and working on my skills.\
 👯‍♂️ &nbsp; I’m looking to collaborate on Projects. \
 🎓 &nbsp; Studied Computer Science at National Open University, Nigeria.\
