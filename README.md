@@ -4,11 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-</br>
-
-👨 &nbsp; I'm just a code newbie navigating through the world of software development.\
+👨 &nbsp; I'm just a software engineering enthusiast navigating through the programming world.\
 🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and postgres)\
-👨🏻‍💻 &nbsp; Exploring new technologies and working on my skills.\
+👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions and quick hack.\
 👯‍♂️ &nbsp; I’m looking to collaborate on Projects. \
 🎓 &nbsp; Studied Computer Science at National Open University, Nigeria.\
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
