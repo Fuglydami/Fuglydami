@@ -11,11 +11,11 @@
 🎓 &nbsp; Studied Computer Science at National Open University, Nigeria.\
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
 
-</br><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3>
    🛠 &nbsp;Tech Stack
-</h3> </br>
+</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
