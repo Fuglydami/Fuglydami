@@ -1,4 +1,4 @@
-<h2> <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hey there! I'm Damilare</h2>
+<h2>Hey there!<span><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/></span> I'm Damilare</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -8,7 +8,7 @@
 🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and postgres)\
 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions and quick hack.\
 👯‍♂️ &nbsp; I’m looking to collaborate on Projects. \
-🎓 &nbsp; Studied Computer Science at National Open University, Nigeria.\
+🎓 &nbsp; Studied Computer Science (Bsc).\
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
