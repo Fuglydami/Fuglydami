@@ -25,11 +25,11 @@
 ![MongoBD](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitBucket)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitBucket)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindCSS)
 ![Styled-Component](https://img.shields.io/badge/-StyledComponent-333333?style=flat&logo=styledComponent)
-![MaterialUI](https://img.shields.io/badge/-materialUI-333333?style=flat&logo=materialUI)\ </br></br>
+![MaterialUI](https://img.shields.io/badge/-materialUI-333333?style=flat&logo=materialUI) </br></br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
