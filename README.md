@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨 &nbsp; I'm just a software engineering enthusiast navigating through the programming world.\
-🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and postgres)\
+👨 &nbsp; I'm just a Software Developer who loves solving proplems.\
+🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and MongoDB)\
 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions and quick hack.\
-👯‍♂️ &nbsp; I’m looking to collaborate on Projects. \
+👯‍♂️ &nbsp; I’m looking to collaborate on more Projects. \
 🎓 &nbsp; Studied Computer Science at National Open University, Nigeria.\
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
 
@@ -22,10 +22,14 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)\
+![MongoBD](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) </br></br>
+![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitBucket)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindCSS)
+![Styled_Component](https://img.shields.io/badge/-Styled-component-333333?style=flat&logo=styled-component)
+![MaterialUI](https://img.shields.io/badge/-material-ui-333333?style=flat&logo=material-ui)\ </br></br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
