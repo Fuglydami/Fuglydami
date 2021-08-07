@@ -6,7 +6,6 @@
 🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and MongoDB)\
 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions and quick hack.\
 👯‍♂️ &nbsp; I’m looking to collaborate on more Projects. \
-🎓 &nbsp; Studied Computer Science at National Open University, Nigeria.\
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
