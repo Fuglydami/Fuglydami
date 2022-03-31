@@ -18,19 +18,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)\
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![MongoBD](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)\
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)\
+![MongoBD](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitBucket)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitBucket)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindCSS)
 ![Styled-Components](https://img.shields.io/badge/-StyledComponent-333333?style=flat&logo=StyledComponents)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=MaterialUI)\
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-</br></br>
+![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=MaterialUI)</br></br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
