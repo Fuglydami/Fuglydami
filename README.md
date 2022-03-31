@@ -28,7 +28,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitBucket)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindCSS)
-![Styled-Components](https://img.shields.io/badge/-StyledComponent-333333?style=flat&logo=StyledComponents)
+![Styled-Components](https://img.shields.io/badge/-StyledComponent-333333?style=flat&logo=StyledComponents)\
 ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=MaterialUI)</br></br>
 
 ### ⚙️ &nbsp;GitHub Analytics
