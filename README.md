@@ -8,7 +8,7 @@
 👯‍♂️ &nbsp; I’m looking to collaborate on more Projects. \
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right"/>
 
 <h3>
    🛠 &nbsp;Tech Stack
