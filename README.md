@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨 &nbsp; I'm just a Software Developer who loves solving proplems.\
-🌱 &nbsp; After getting myself familiar with React, I'm currently learning backend technologies (nodejs, express and MongoDB)\
+🌱 &nbsp; After getting myself familiar with React and React Native\
 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions and quick hack.\
 👯‍♂️ &nbsp; I’m looking to collaborate on more Projects. \
 ✉️ &nbsp;You can shoot me an email at damoye81@gmail.com! I'll try to respond as soon as I can.
